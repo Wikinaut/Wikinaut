@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Thanks for checking me out!
+
+I am <a rel="me" href="https://chaos.social/@wikinaut">@Wikinaut@chaos.social</a> on Mastodon.
+
 <!--
 **Wikinaut/Wikinaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
